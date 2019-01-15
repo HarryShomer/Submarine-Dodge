@@ -8,7 +8,7 @@ Submarine Dodge is a game in which you are the captain of a submarine that is be
 
 The project was built solely with Java. This project uses nothing fancy so any reasonable version of Java should be fine. Java can be installed from [here](https://www.java.com/en/download/). 
 
-In order to easily build the project you will need ant (I strongly recommend this). That can be installed from [here] (https://ant.apache.org/manual/install.html). For Mac it can be installed through Homebrew.
+In order to easily build the project you will need ant (I strongly recommend this). That can be installed from [here](https://ant.apache.org/manual/install.html). For Mac it can be installed through Homebrew.
 
 ## Running
 
