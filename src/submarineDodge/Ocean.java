@@ -307,7 +307,7 @@ public class Ocean extends JPanel implements Runnable
         
         // Create a new missile
         // Only if missile delay is 0 
-        // We create 3.33 per second
+        // We create 2.5 per second
         if( missileDelay == 0) {
         	enemyMissiles.add(new EnemyMissile(WIDTH, HEIGHT));
         	missileDelay = 300;
